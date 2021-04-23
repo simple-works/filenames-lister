@@ -1,0 +1,9 @@
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\obj\x86\Debug\Filename_Lister.Properties.Resources.resources
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\obj\x86\Debug\Filename Lister.csproj.GenerateResource.Cache
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\bin\Debug\Filename Lister.exe
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\bin\Debug\Filename Lister.pdb
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\obj\x86\Debug\Filename Lister.exe
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\obj\x86\Debug\Filename Lister.pdb
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\bin\Debug\Filename Lister.exe.config
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\obj\x86\Debug\Filename_Lister.Form_Main.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Filename Lister\Filename Lister\bin\Debug\YAML Files Names List Generator.exe.config

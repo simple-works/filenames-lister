@@ -1,0 +1,8 @@
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\bin\Debug\YAML Files Names Liste Generator.exe.config
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\bin\Debug\YAML Files Names Liste Generator.exe
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\bin\Debug\YAML Files Names Liste Generator.pdb
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\obj\x86\Debug\YamlFilesNamesListGenerator.Form_Main.resources
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\obj\x86\Debug\YamlFilesNamesListGenerator.Properties.Resources.resources
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\obj\x86\Debug\YAML Files Names Liste Generator.csproj.GenerateResource.Cache
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\obj\x86\Debug\YAML Files Names Liste Generator.exe
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\obj\x86\Debug\YAML Files Names Liste Generator.pdb
