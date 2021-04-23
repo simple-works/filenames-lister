@@ -1,0 +1,16 @@
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Filename Lister\Filename Lister\bin\Release\Filenames Lister.exe.config
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Filename Lister\Filename Lister\bin\Release\Filenames Lister.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Filename Lister\Filename Lister\bin\Release\Filenames Lister.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Filename Lister\Filename Lister\obj\x86\Release\YamlFilesNamesListGenerator.Form_Main.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Filename Lister\Filename Lister\obj\x86\Release\FilenamesLister.Properties.Resources.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Filename Lister\Filename Lister\obj\x86\Release\Filenames Lister.csproj.GenerateResource.Cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Filename Lister\Filename Lister\obj\x86\Release\Filenames Lister.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Filename Lister\Filename Lister\obj\x86\Release\Filenames Lister.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Filename Lister\Filenames Lister\bin\Release\Filenames Lister.exe.config
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Filename Lister\Filenames Lister\bin\Release\Filenames Lister.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Filename Lister\Filenames Lister\bin\Release\Filenames Lister.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Filename Lister\Filenames Lister\obj\x86\Release\YamlFilesNamesListGenerator.Form_Main.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Filename Lister\Filenames Lister\obj\x86\Release\FilenamesLister.Properties.Resources.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Filename Lister\Filenames Lister\obj\x86\Release\Filenames Lister.csproj.GenerateResource.Cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Filename Lister\Filenames Lister\obj\x86\Release\Filenames Lister.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\Filename Lister\Filenames Lister\obj\x86\Release\Filenames Lister.pdb

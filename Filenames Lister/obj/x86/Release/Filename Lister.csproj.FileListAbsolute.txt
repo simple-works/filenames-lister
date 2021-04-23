@@ -1,0 +1,8 @@
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\bin\Release\Filename Lister.exe.config
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\bin\Release\Filename Lister.exe
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\bin\Release\Filename Lister.pdb
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\obj\x86\Release\Filename_Lister.Form_Main.resources
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\obj\x86\Release\Filename_Lister.Properties.Resources.resources
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\obj\x86\Release\Filename Lister.csproj.GenerateResource.Cache
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\obj\x86\Release\Filename Lister.exe
+C:\Users\Abdelhakim\Desktop\Filename Lister\Filename Lister\obj\x86\Release\Filename Lister.pdb
